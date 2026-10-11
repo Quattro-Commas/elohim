@@ -223,7 +223,7 @@ python3 tools/check_text.py           # shipped-text lint
 python3 tools/sync_adapters.py        # regenerate the derived plugin copies
 python3 tools/sync_adapters.py --check
 python3 tools/submit.py --check       # 10 distribution checks
-python3 -m pytest -q                  # the 183-test unit suite
+python3 -m pytest -q                  # the 339-test unit suite
 ```
 
 The first four need nothing installed. The fifth is the only command here
