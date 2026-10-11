@@ -22,6 +22,10 @@ that was internally consistent, readable, and wrong, and none of them announced
 itself. Writing the arithmetic down independently is what caught each one, and
 each one is now a check that runs on every invocation, forever.
 
+## Demo
+
+![ELOHIM gate run](docs/demo.svg)
+
 ## The six specific failures
 
 1. **A Pisot decay rate fitted with a regression that biased it by more than half
