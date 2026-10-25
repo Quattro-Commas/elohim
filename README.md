@@ -1,4 +1,5 @@
 [![CI](https://github.com/Quattro-Commas/elohim/actions/workflows/ci.yml/badge.svg)](https://github.com/Quattro-Commas/elohim/actions/workflows/ci.yml)
+[![Interpreter Matrix](https://github.com/Quattro-Commas/elohim/actions/workflows/matrix.yml/badge.svg)](https://github.com/Quattro-Commas/elohim/actions/workflows/matrix.yml)
 [![CodeQL](https://github.com/Quattro-Commas/elohim/actions/workflows/codeql.yml/badge.svg)](https://github.com/Quattro-Commas/elohim/actions/workflows/codeql.yml)
 [![PyPI](https://img.shields.io/pypi/v/elohim-gate)](https://pypi.org/project/elohim-gate/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
